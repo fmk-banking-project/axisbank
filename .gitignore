@@ -1,0 +1,7 @@
+.class
+.classpath
+.projects
+node_modules/
+path
+test.java
+*.java
